@@ -1,2 +1,2 @@
 # biggestchops.github.io
-A place for the writing about technical things that I do.
+A place for writing about technical things that I do.
